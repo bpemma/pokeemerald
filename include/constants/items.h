@@ -874,6 +874,7 @@
 #define ITEM_Z_POWER_RING 706
 #define ITEM_DYNAMAX_BAND 707
 
+
 // Misc. Key Items
 #define ITEM_BICYCLE 708
 #define ITEM_MACH_BIKE 709
@@ -929,8 +930,10 @@
 #define ITEM_TEA 757
 #define ITEM_RUBY 758
 #define ITEM_SAPPHIRE 759
+// Surfboard
+#define ITEM_SURFBOARD 760
 
-#define ITEMS_COUNT 760
+#define ITEMS_COUNT 761
 #define ITEM_FIELD_ARROW ITEMS_COUNT
 
 // Range of berries given out by various NPCS
